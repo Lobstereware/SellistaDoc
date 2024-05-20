@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   themes: ['docusaurus-theme-search-typesense'],
   title: 'Sellista Documentation',
-  tagline: 'Your all-in-one ecommerce platform',
+  tagline: 'Your #1 al Ecommerce alternative',
   favicon: 'img/Sellista.svg',
 
   // Set the production url of your site here
@@ -104,15 +104,15 @@ const config = {
             items: [
               {
                 label: 'Online store',
-                to: 'docs/',
+                to: '#',
               },
               {
                 label: 'Social Commerce',
-                to: 'docs/',
+                to: '#',
               },
               {
                 label: 'Checkout and Payments',
-                to: 'docs/doc2/',
+                to: '#',
               },
             ],
           },

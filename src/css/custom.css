@@ -34,3 +34,8 @@ section .container {
   margin: 20px !important;
 }
 
+
+.home-wrapper {
+  margin: 5% auto;
+    width: 80%;
+}
