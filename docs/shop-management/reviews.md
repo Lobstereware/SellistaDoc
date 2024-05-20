@@ -12,6 +12,8 @@ To use the reviews feature on Sellista, follow these steps:
 2. **Access Products Tab:** Under the Products tab, find the option to enable reviews.
 3. **Enable Reviews:** Toggle the switch to enable reviews for your products.
 
+![alt text](image-21.png)
+
 ### Customer Review Process
 
 When a customer makes a purchase through your store's sales channels, they will receive an email prompting them to leave a review once their order is delivered. This process is as follows:
@@ -20,11 +22,15 @@ When a customer makes a purchase through your store's sales channels, they will 
 2. **Submitting a Review:** The customer clicks on the review link in the email, which takes them to the review submission page. Here, they can rate the product, add a title, and write their review.
 3. **Review Display:** Once submitted, the reviews are displayed on the product pages of your store's website, providing valuable feedback for potential buyers.
 
+![alt text](image-22.png)
+
 ### Managing Reviews
 As a store owner, you can manage and respond to customer reviews:
 
 1. **View Reviews:** Go to the product section where the reviews are listed.
 2. **Reply to Reviews:** Click on a review to view the details and reply to the customer's feedback. Engaging with customers by responding to their reviews shows that you value their opinions and are committed to improving their experience.
+
+![alt text](image-23.png)
 
 ### Additional Notes
 
@@ -32,4 +38,4 @@ As a store owner, you can manage and respond to customer reviews:
 - **Review Moderation:** As a store owner, you can moderate reviews to ensure they meet your store's guidelines and policies.
 
 
-By following these steps, you can effectively utilize the reviews feature on Sellista to gather customer feedback, enhance product credibility, and engage with your customers.
+> By following these steps, you can effectively utilize the reviews feature on Sellista to gather customer feedback, enhance product credibility, and engage with your customers.

@@ -9,16 +9,21 @@
     - Go to Settings from the main navigation menu.
     - Select the Policies tab.
 
+
 2. **Define Return Policies:**
 
     - Under the Policies section, find the Refund policy field.
     - Enter your return policy details. This can include the return window (e.g., 30 days), the condition of the item for return (e.g., unused with tags), and any necessary documentation (e.g., receipt or proof of purchase).
+
+![alt text](image-25.png)
 
 3. **Configure Order Settings for Returns:**
 
     - In the Settings section, select the Orders tab.
     - Enable returns by setting Allow return order to Yes.
     - Specify the return window in the Orders can be returned by customers within field (e.g., 30 days).
+
+![alt text](image-24.png)
 
 ### Processing Returns
 
@@ -28,6 +33,8 @@ When a customer makes a purchase from the website, they will receive an email wi
 
     - Go to the Returns section from the main navigation menu under Order & Shipping.
     - The Returns page will list all return requests with details such as Order ID, Items, Customer, Returned date, Total, Resolutions, Status, and Actions.
+
+ ![alt text](image-26.png)   
 
 2. **Manage Return Requests:**
 

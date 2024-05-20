@@ -6,11 +6,15 @@
 
 1. **Access Sales Channels**
 
-    - From the Sellista dashboard, navigate to the sidebar and click on "Sales Channels".
+    - From the Sellista dashboard, navigate to the sidebar and click on **Sales Channels**.
+
+![alt text](image.png)
 
 2. **Create New Website**
 
-    - Click the "Create new" button. A drop-down menu will appear with various options. Select "Website" to begin the website creation process.
+    - Click the **Create new** button. A drop-down menu will appear with various options. Select **Website** to begin the website creation process.
+
+![alt text](image-1.png)
 
 3. **Basic Store Information**
 
@@ -19,13 +23,17 @@
         - **Description:** A brief description of what your website is about.
         - **Logo:** Upload a logo for your website. You can either drag and drop the image or browse your files to upload it. Accepted formats include JPEG, PNG, and JPG with a maximum size of 20MB. The recommended size is 250 x 100 px.
 
+![alt text](image-2.png)
+
 4. **Branding & Design**
 
     - Choose a template for your website from the available options. You can filter templates based on color and other attributes to find one that best suits your brand’s identity.
 
+![alt text](image-3.png)
+
 5. **Submit**
 
-    - After selecting the template, click "Submit" to finalize the creation of your website.
+    - After selecting the template, click **Submit** to finalize the creation of your website.
 
 ### Publishing Your Website
 
@@ -33,12 +41,14 @@ Once your website is created, it is not automatically published. To make your we
 
 1. **Access Sales Channels**
 
-Return to the "Sales Channels" section from the sidebar.
+Return to the **Sales Channels** section from the sidebar.
 
 2. **Toggle Website Activation**
 
 Locate your newly created website in the list. In front of the website name, you will see a toggle button.
 Press the toggle button to activate your website.
+
+![alt text](image-4.png)
 
 3. **Website Generation and Optimization**
 
@@ -59,12 +69,12 @@ After the generation and optimization process is complete, your website will be 
 
 2. **Preview**
 
-    - You can preview your website by clicking the "Preview" option. This allows you to see how your website will look to visitors.
+    - You can preview your website by clicking the **Preview** option. This allows you to see how your website will look to visitors.
 
 3. **Settings**
 
-    - Under the "Settings" option, you can configure various aspects of your website, including SEO settings, domain settings, and more.
+    - Under the **Settings** option, you can configure various aspects of your website, including SEO settings, domain settings, and more.
 
 4. **Delete**
 
-    - If you need to remove the website, you can click "Delete". Be cautious, as this will remove the website permanently.        
+    - If you need to remove the website, you can click **Delete**. Be cautious, as this will remove the website permanently.        

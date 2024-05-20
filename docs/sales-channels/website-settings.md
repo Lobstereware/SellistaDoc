@@ -6,6 +6,8 @@
 
 The Theme settings allow you to customize the visual appearance of your website, ensuring it aligns with your brand identity.
 
+![alt text](image-5.png)
+
 **Customization Options:**
 
 - **Color Palette:**
@@ -14,6 +16,8 @@ The Theme settings allow you to customize the visual appearance of your website,
     - Primary and Secondary Colors: Choose your primary and secondary colors to reflect your brand.
     - Custom Palette: You can set your own custom color palette to further personalize your website.
     - To change the colors, click on the color boxes and select your desired colors. Click **Save Changes** to apply them.
+
+![alt text](image-6.png)
 
 - **Logo:**
 
@@ -27,9 +31,13 @@ The Theme settings allow you to customize the visual appearance of your website,
     - Accepted formats: ICO, PNG, JPG. Maximum file size: 16 KB. Recommended size: 16 x 16 px.
     - Click **Upload Favicon** to save the changes.
 
+    ![alt text](image-7.png)
+
 ### Pages
 
 The Pages section allows you to create and manage the static pages of your website, such as 'About Us', 'Contact Us', etc.
+
+![alt text](image-8.png)
 
 **Creating a New Page:**
 
@@ -40,6 +48,8 @@ The Pages section allows you to create and manage the static pages of your websi
 - **Page Name:** Enter a name for your page.
 - **Page URL:** Specify the URL slug for the page (e.g., /about-us).
 - **Header and Footer:** Check the boxes if you want the page to include the site’s header and footer.
+
+![alt text](image-9.png)
 
 3. SEO Settings:
 
@@ -58,6 +68,8 @@ The Pages section allows you to create and manage the static pages of your websi
 
 The Navigation settings allow you to configure the main menu and footer links, ensuring easy navigation for your site visitors.
 
+![alt text](image-10.png)
+
 **Main Menu:**
 
 - Add, edit, or reorder the main menu items.
@@ -66,10 +78,14 @@ The Navigation settings allow you to configure the main menu and footer links, e
     2. Enter the **Name** (e.g., About Us) and Link (URL path or external link).
     3. Click **Save**.
 
+![alt text](image-11.png)
+
 **Footer Menu:**
 
 - Similar to the main menu, you can add links that will appear in the footer of your website.
 - Click **Add New Menu Item**, enter the details, and save the changes.
+
+![alt text](image-12.png)
 
 **Reordering Menu Items:**
 
@@ -95,6 +111,9 @@ Click on **Domain** in the settings menu.
 Enter your custom domain name.
 Follow the instructions to update your domain’s DNS settings. This typically involves adding CNAME or A records provided by Sellista.
 Verify the domain connection to ensure it is properly linked to your Sellista website.
+
+![alt text](image-13.png)
+
 ### Languages
 
 The Languages section allows you to manage the languages available on your website, enabling you to reach a broader audience.
