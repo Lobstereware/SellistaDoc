@@ -1,5 +1,5 @@
 # Getting Started
-##  A Step-by-Step Guide to Selling Your First Products
+##  A Step by Step Guide to Selling Your First Products
 
 Welcome to Sellista! Follow these easy steps to get your online store up and running and start selling your products.
 

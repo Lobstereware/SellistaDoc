@@ -6,7 +6,7 @@
 
 ## Adding a New Product
 
-Adding new products to your Sellista store is a straightforward process, allowing you to input detailed information to ensure each product is well represented and easy to find. Here’s a step-by-step guide on how to add a new product:
+Adding new products to your Sellista store is a straightforward process, allowing you to input detailed information to ensure each product is well represented and easy to find. Here’s a step by step guide on how to add a new product:
 
 ### 1. Access the Product List
 

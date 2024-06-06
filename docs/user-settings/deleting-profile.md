@@ -2,7 +2,7 @@
 
 If you wish to delete your account on Sellista, please follow the steps below. Deleting your account will remove all your data associated with the account permanently.
 
-## Step-by-Step Instructions
+## Step by Step Instructions
 
 1. **Log In to Your Sellista Account:**
    - Visit the [Sellista website](https://merchant.sellista.shop) and log in with your credentials.
