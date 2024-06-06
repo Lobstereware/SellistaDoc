@@ -74,6 +74,7 @@ const sidebars = {
         'user-settings/editing-profile',
         'user-settings/managing-security-settings',
         'user-settings/subscription-and-billing',
+        'user-settings/deleting-profile',
         'user-settings/public-api',
         'user-settings/preferences',
         'user-settings/groups-and-permissions',

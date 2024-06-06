@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            href="https://merchant.dukline.com/">
+            href="https://merchant.sellista.shop/">
             Start now 
           </Link>
         </div>

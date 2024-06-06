@@ -81,7 +81,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://merchant.dukline.com',
+            href: 'https://merchant.sellista.shop',
             label: 'Go to Sellista',
             position: 'right',
           },
@@ -94,8 +94,7 @@ const config = {
           {
             items: [
               {
-                html: `
-<a href="/" ><img src="img/sellista-dark.svg"></a>`}
+                html: `<a href="/" ><img src="/img/sellista-dark-mode-logo.svg"></a>`}
             ],
 
           },
@@ -138,15 +137,15 @@ const config = {
             items: [
               {
                 label: 'About us',
-                href: '#',
+                href: 'https://sellista.shop/about-us/',
               },
               {
                 label: 'Privacy policy',
-                href: '#',
+                href: 'https://sellista.shop/privacy-policy/',
               },
               {
                 label: 'Feedback & Complaint',
-                href: '#',
+                href: 'mailto:contact@sellista.shop',
               },
             ],
           },
